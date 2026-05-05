@@ -51,7 +51,6 @@ Elle permet aux bibliothécaires de gérer les livres, les membres abonnés et l
 
 bibliotheque_app/
 
-│
 ├── main.py # Point d'entrée de l'application
 
 ├── database.py # Gestion de la base de données SQLite
