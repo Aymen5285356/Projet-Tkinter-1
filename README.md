@@ -50,13 +50,20 @@ Elle permet aux bibliothécaires de gérer les livres, les membres abonnés et l
 ## 📁 Structure du projet
 
 bibliotheque_app/
+
 │
 ├── main.py # Point d'entrée de l'application
+
 ├── database.py # Gestion de la base de données SQLite
+
 ├── gui_livres.py # Interface de gestion des livres
+
 ├── gui_membres.py # Interface de gestion des membres
+
 ├── gui_emprunts.py # Interface de gestion des emprunts
+
 ├── gui_statistiques.py # Interface des statistiques (bonus)
+
 └── bibliotheque.db # Base de données (créée automatiquement)
 
 ## 🚀 Installation et exécution
