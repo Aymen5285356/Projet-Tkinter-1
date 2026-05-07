@@ -67,6 +67,11 @@ bibliotheque_app/
 
 ## 🚀 Installation et exécution
 
+## 📷 Screenshots
+
+![2D Game](PTS.png)
+
+
 ### Prérequis
 - Python 3.6 ou supérieur
 - Tkinter (inclus par défaut avec Python)
