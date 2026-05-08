@@ -69,7 +69,7 @@ bibliotheque_app/
 
 ## 📷 Screenshots
 
-![2D Game](PTS.png)
+![Surface de Projet tkinter (bibliotheque.app)](PTS.png)
 
 
 ### Prérequis
